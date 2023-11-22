@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RRPx
+- 👋 Hi, I’m Ridwan
 - 👀 I’m interested in Writing real stuffs using different languages but currently I'm focused in React, Node js and algorithms.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and employed at Brandcloud Inc. Japan as Backend Engineer
 - 💞️ I’m looking to collaborate on different similiar type of projects based on my interest.
 - 📫 ridwanurrahman0183@gmail.com
 
