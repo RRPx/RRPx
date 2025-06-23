@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 ## 📊 GitHub Stats
 
 
-
+![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
