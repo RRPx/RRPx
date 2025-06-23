@@ -11,61 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-<h2>📊 GitHub Stats</h2>
-
-<table>
-  <tr>
-    <td>💼 Repositories</td>
-    <td><strong>32</strong></td>
-  </tr>
-  <tr>
-    <td>🧠 Total Commits</td>
-    <td><strong>700</strong></td>
-  </tr>
-  <tr>
-    <td>🌟 Stars Received</td>
-    <td><strong>0</strong></td>
-  </tr>
-  <tr>
-    <td>🍴 Forks</td>
-    <td><strong>0</strong></td>
-  </tr>
-  <tr>
-    <td>🐛 Issues Opened</td>
-    <td><strong>XX</strong></td>
-  </tr>
-  <tr>
-    <td>✅ Issues Closed</td>
-    <td><strong>0</strong></td>
-  </tr>
-  <tr>
-    <td>🚀 Pull Requests Opened</td>
-    <td><strong>0</strong></td>
-  </tr>
-  <tr>
-    <td>🔀 Pull Requests Merged</td>
-    <td><strong>180</strong></td>
-  </tr>
-  <tr>
-    <td>⏰ Longest Streak</td>
-    <td><strong>XX days</strong></td>
-  </tr>
-  <tr>
-    <td>📆 Current Streak</td>
-    <td><strong>8 days</strong></td>
-  </tr>
-  <tr>
-    <td>🧑‍💻 Most Used Language</td>
-    <td><strong>Language</strong></td>
-  </tr>
-</table>
-
-<h3>💻 Most Used Languages</h3>
-
-<pre>
-Language1     ██████████░░░░░░░░░░ 50%
-Language2     ██████░░░░░░░░░░░░░░ 25%
-Language3     ████░░░░░░░░░░░░░░░░ 15%
-Other         ██░░░░░░░░░░░░░░░░░░ 10%
-</pre>
+![RRPx's Stats](https://github-readme-stats.vercel.app/api?username=RRPx&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![RRPx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RRPx&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
