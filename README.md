@@ -11,5 +11,61 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
+<h2>📊 GitHub Stats</h2>
 
-![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ridwan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<table>
+  <tr>
+    <td>💼 Repositories</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>🧠 Total Commits</td>
+    <td><strong>XXXX</strong></td>
+  </tr>
+  <tr>
+    <td>🌟 Stars Received</td>
+    <td><strong>XXX</strong></td>
+  </tr>
+  <tr>
+    <td>🍴 Forks</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>🐛 Issues Opened</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>✅ Issues Closed</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>🚀 Pull Requests Opened</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>🔀 Pull Requests Merged</td>
+    <td><strong>XX</strong></td>
+  </tr>
+  <tr>
+    <td>⏰ Longest Streak</td>
+    <td><strong>XX days</strong></td>
+  </tr>
+  <tr>
+    <td>📆 Current Streak</td>
+    <td><strong>X days</strong></td>
+  </tr>
+  <tr>
+    <td>🧑‍💻 Most Used Language</td>
+    <td><strong>Language</strong></td>
+  </tr>
+</table>
+
+<h3>💻 Most Used Languages</h3>
+
+<pre>
+Language1     ██████████░░░░░░░░░░ 50%
+Language2     ██████░░░░░░░░░░░░░░ 25%
+Language3     ████░░░░░░░░░░░░░░░░ 15%
+Other         ██░░░░░░░░░░░░░░░░░░ 10%
+</pre>
+
