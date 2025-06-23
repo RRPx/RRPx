@@ -11,6 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RRPx&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RRPx&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RRPx&layout=compact&theme=radical)
+![Ridwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RRPx&show_icons=true&theme=transparent)
