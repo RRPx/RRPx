@@ -16,19 +16,19 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>💼 Repositories</td>
-    <td><strong>XX</strong></td>
+    <td><strong>32</strong></td>
   </tr>
   <tr>
     <td>🧠 Total Commits</td>
-    <td><strong>XXXX</strong></td>
+    <td><strong>700</strong></td>
   </tr>
   <tr>
     <td>🌟 Stars Received</td>
-    <td><strong>XXX</strong></td>
+    <td><strong>0</strong></td>
   </tr>
   <tr>
     <td>🍴 Forks</td>
-    <td><strong>XX</strong></td>
+    <td><strong>0</strong></td>
   </tr>
   <tr>
     <td>🐛 Issues Opened</td>
@@ -36,15 +36,15 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>✅ Issues Closed</td>
-    <td><strong>XX</strong></td>
+    <td><strong>0</strong></td>
   </tr>
   <tr>
     <td>🚀 Pull Requests Opened</td>
-    <td><strong>XX</strong></td>
+    <td><strong>0</strong></td>
   </tr>
   <tr>
     <td>🔀 Pull Requests Merged</td>
-    <td><strong>XX</strong></td>
+    <td><strong>180</strong></td>
   </tr>
   <tr>
     <td>⏰ Longest Streak</td>
@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>📆 Current Streak</td>
-    <td><strong>X days</strong></td>
+    <td><strong>8 days</strong></td>
   </tr>
   <tr>
     <td>🧑‍💻 Most Used Language</td>
